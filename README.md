@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idrkwhotbh1
-- 👀 I’m interested in Coding and Minecraft
+- 👀 I’m interested in Coding/Programming and Minecraft
 - 🌱 I’m currently learning Java, JS, ReactJS, and Rust
 - 💞️ I’m looking to collaborate on Youtube or Programming Ideas
 
